@@ -1,2 +1,2 @@
-# Applied Remote Sensing at NAU
+# Hydrogeology at NAU
 Example quarto site 

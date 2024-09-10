@@ -1,121 +1,126 @@
 ---
 title: Infiltration and ET
-author: Abe Springer
+author: Abe Springer and Ryan Lima
 format: 
     revealjs:
         theme: sky
+        smaller: true
+        scrollable: true
 ---
 
 
-## Textbooks
+## Textbooks^[Free Textbooks from the Groundwater Project]{.smaller}
 
-- [Groundwater Freeze & Cherry 1979](https://fc79.gw-project.org/english/)^[Free Textbook from the Groundwater Project)
+- [Groundwater Freeze - & Cherry 1979](https://fc79.gw-project.org/english/) 
 
-- [Groundwater in our Water Cycle: Getting to Know Earth's Most Important Fresh Water Source](https://gw-project.org/books/groundwater-in-our-water-cycle/) ^[Free Textbook from the Groundwater Project]
+- [Groundwater in our Water Cycle: Getting to Know Earth's Most Important Fresh Water Source - Poeter et al. 2020](https://gw-project.org/books/groundwater-in-our-water-cycle/) 
 
-- [A Glossary of Hydrogeology](https://gw-project.org/books/a-glossary-of-hydrogeology) ^[Free Textbook from the Groundwater Project]
+- [A Glossary of Hydrogeology - Sharp 2023](https://gw-project.org/books/a-glossary-of-hydrogeology) 
+
+
+## Other Resources {.smaller}
+
+- Free Online Course: Utah State University [Rainfall Runoff Processes](https://uwrl.usu.edu/hydrology/rrp/welcome)
 ---
 
-![Hydrologic Cycle Diagram](Images/FigSlide1.png)
+![Hydrologic Cycle Diagram](Images/WaterCycleEncyclopediaBritannica.PNG)
 
----
+## The Water Cycle - 1 {.smaller}
+Where does the water go after it rains?
 
-![Figure 1.9 Key Components of the basin hydrologic cycle modified from Theis, 1940. The Source of water derived from wells--essential factors controlling the response of an aquifer to development Copyright 1940 by ASCE and reproduced with permission of the publisher, ASCE](Images/Fig1_9.png)
+![Water Cycle Processes. Source: USU](Images/Physical_runoff_processes_USU.PNG)
 
----
+- *Precipitation* weather rain or snow may be *intercepted* by vegetation. If precipitation penetrates the vegetation it is referred to as *throughfall*. 
 
-![Figure 1.1 Water infiltrating the subsurface flows through the gound-water system and eventually discharges in streams, lakes, or oceans. The residence time in the subsurface can vary from days to thousands of years. Source: Winter et al., 1998](Images/Fig1_1.png)
+## The Water Cycle - 2 {.smaller}
 
----
 
-**Ages of Groundwater in Southwest**
+- Much of the water that is intercepted by vegetation is *evaporated* back into the atmosphere. 
+- Water is also lost to the atosphere through *transpiration* caused by plant water use, this water is generally sourced from the shallow soil in the *root zone*.
+- Thoughfall may also accumulate in shallow surface depressions called *depressional storage* where it may *evaporate* directly or *infiltrate* into the soil, where it may be evporated from the soil surface or transpired.
+- Snow may accumulate on branches in the canopy or throughfall to the ground surface where. Snow can melt and infiltrate, or *sublimate* (turn from solid to gas form) and be lost to the atmosphere. 
 
-*Mountain Front Recharge*
+- If the final desinitation of the water is evaporation or transpiration it is collectively known as **Evapotransporation** or *ET*. 
 
-- Western Alluvial aquifers 700 - 25,500 yr b.p.
-- AZ basin and Range: 6000 - 13,000 yr b.p
+## {.smaller}
 
-*Monsoon Recharge (direct recharge)*
+![](Images/Inflows and Outlfows.jpg){.absolute top=5 left=5 width="900" height="700"}
 
-- ~ 4 inches of precipitation to have well response
-- Water levels 100 - 200 ft below surface
+::: aside
+Source: [Desert Research Institute](https://phys.org/news/2024-05-climate-streamflow-upper-colorado-river.html)
+:::
 
-*Kaibab Plateau*
+## The Water Cycle - 4 {.smaller}
 
-- days in sinkhole
+![ET - source:Poeter et al., 2020 ](Images/Poeter et al Transpiration or ET.PNG)
+
+
+## The Water Cycle - 5 {.smaller}
+
+**What about water that doesn't get lost to ET?**
+
+![Water Cycle Processes. Source: USU](Images/Physical_runoff_processes_USU.PNG)
+
+## The Water Cycle - 6 {.smaller}
+
+**What about water that doesn't get lost to ET?**
+
+- Water that reaches the surface collects in small depressions, if it does not evaporate it can begin to *infiltrate* into the soil, where it may flow latterally, down-gradient, towards streams. This type of flow is called *interflow*. 
+
+- Infiltrated water may also *percolate* or move vertically down through deeper soil and rock layers into the *groundwater*.
+
+- If the water collects in depressions faster than it can infiltrate and overtops the depressions--it may *runoff*, down gradient, towards streams as *overland flow*.
 
 
 ## Definitions {.smaller}
 
-- **Unsaturated Zone** - generically, is roughly, but not precisely, equivelent to the vadose zone. THis is the zone above the saturated portion of the capillary fringe where the pores are generally filled with both air and water and the fluid pressure is less than atmospheric [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+- **Infiltration** the downward movement of water into the soil surface
 
-- **Phreatic zone** - Water in the zone beneath the water table where the fluid pressure is equal to or greater than atmospheric pressure. This is This is essentially equivalent to the *Saturated zone* where all the pores are filled with water. [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+- **Percolation** the downward movement of infiltrate water through soil particles and porous materials. 
 
-- **Capillary Fringe (or Zone)** - the zone immediately above the water table where the medium is saturated or partially saturated by capillary rise from the phreatic zone. Water in the capillary fringe has a pressure less than atmospheric [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+![infiltration vs. Percolation](Images/InfiltrationvsPercolation.PNG)
 
----
+Water must *infiltrate* before it can *percolate* 
 
-![Some authors consider the capillary fringe to be in the saturated zone -- the pore spaces are saturated BUT the hydraulic behavior really puts it in the unsaturated zone](Images/Capilary_fringe.png)
+## Infiltration  {.smaller}
 
-## Recharge
+- Water that infiltrates the soil surface can perolate down to the **water table** which is a *conceptual* surface existing everywhere at some depth below the land surface
 
-- In humid areas recharge rates are most likely to exceed 10% of the local total annual precipitation.
-- In dry areas annual recharge rates are unlikely to exceed 10% of the local total annual precipitation. 
+- The depth of the water table varies from location to location but its depth can be measured by drilling a well. 
 
-::: aside
-Recharge is 2-4% of total precipitation in Flagstaff, primarily all winter precipitation.
-:::
- 
- ---
- 
- **Infiltration**
- 
- What processes occur to precipitation?
- 
- - interception
- 
- - evaporation/sublimation
- 
- - transpiration
- 
- - runoff
- 
- Whats left can **INFILTRATE**
+- The water surface of a stream or lake becomes the water table where the land surface meets the edge of the water. the water surface along the shorline extends beneath the land surface. 
 
-## Infiltration
+- Along the shorline, water is generally flowing (discharging) from the land into the laker or stream but, in some isntances, the direction of flow is from the water body into the earth. 
 
-- Downward movement is typically combination of gravitational and tension (suction, matric, capillary) forces.
- 
-- When rain hits a dry soil...Surface effects between soil particals and water exert a tension that draws water into soil, a process known as infiltration.
+## {.smaller}
 
-::: aside
-Soil water tention: 1 inch of soil water head near saturation, 10 million inches of head for very dry soils
-:::
- 
-## Infiltration continued {.smaller}
+![](Images/Saturated_unsaturated_cross_section_USGS.PNG)
 
-:::: {.columns}
+## {.smaller}
 
-::: {.column width="50%"}
-![equillibrium state](Images/Infiltration.png)
-:::
+![](Images/Poeter et al 2020 Saturated Unsaturated_capilary.PNG)
 
-::: {.column width="50%"}
-![](Images/equation.png)
-- Where $\rho_w$ = density of water
+## Capillary Rise {.smaller}
 
-- $g$ = gravitation constant
+- Water rises a small distance into soil pores above the water table due to capillary forces that result from the adhesion of water molecules to subsuface solids and the cohesion of water moelcules to one another.
 
-- $\alpha$ = angle of contact (meniscus and soil)
+- These capillary forces pull soil upward, opposing the force of graity that pulls the water down. 
 
-- $\tau$ = surface tension force
-:::
-Surface tension forces are due to adhesion and cohesion
-::::
+- This is similar to how a sponge placed on a wet counter-top pulls the water up into the pore spaces within the sponge.
 
-## Hysteresis
-
-- the phenomena exhibited by a system in which the reaction of the system to change is dependent upon its past reaction to change
+![Capillary Rise](Images/Capillary_Rise_USU_course.PNG)
 
 
-- the condition that is caused during wetting when **the small pores fill first**, while during drainage and drying, the **large pores empty first**. 
+## {.smaller}
+
+"In hydrology, Horton (1933) showed that rainfall, when it reaches the round surface, *infiltrates* the surface soils at a rate which decrases with time. He pointed out that for any given soil there is a limiting curve that defines the maximum possible rates of infiltration versus time. For heavy rains, the actual infiltration will follow this limiting curve, which he called the curve of *infiltration capacity* of the soil."
+
+- *infiltration rate* decrease with time after the onset of rainfall and ultimately reaches an approximately constant rate. the decline is caused mainly by the filling of the soil pores by water.
+
+- *infiltration rate* is related to the soil texure with clays having a more rapid decline in infiltration capacity and a lower final constant rate than sandy soils, or soils with more pore space.
+
+
+## More Definitions {.smaller}
+
+
+

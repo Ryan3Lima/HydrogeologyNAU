@@ -136,8 +136,8 @@
     "objectID": "Lectures/Lecture-2.html#textbooks",
     "href": "Lectures/Lecture-2.html#textbooks",
     "title": "Infiltration and ET",
-    "section": "Textbooks",
-    "text": "Textbooks\n\nGroundwater Freeze & Cherry 1979^[Free Textbook from the Groundwater Project)\nGroundwater in our Water Cycle: Getting to Know Earth’s Most Important Fresh Water Source 1\nA Glossary of Hydrogeology 2\n\nFree Textbook from the Groundwater ProjectFree Textbook from the Groundwater Project",
+    "section": "Textbooks1",
+    "text": "Textbooks1\n\nGroundwater Freeze - & Cherry 1979\nGroundwater in our Water Cycle: Getting to Know Earth’s Most Important Fresh Water Source - Poeter et al. 2020\nA Glossary of Hydrogeology - Sharp 2023\n\nFree Textbooks from the Groundwater Project",
     "crumbs": [
       "Lectures",
       "Infiltration and ET"
@@ -148,7 +148,7 @@
     "href": "Lectures/Lecture-2.html#definitions",
     "title": "Infiltration and ET",
     "section": "Definitions",
-    "text": "Definitions\n\nUnsaturated Zone - generically, is roughly, but not precisely, equivelent to the vadose zone. THis is the zone above the saturated portion of the capillary fringe where the pores are generally filled with both air and water and the fluid pressure is less than atmospheric sharp, 2023\nPhreatic zone - Water in the zone beneath the water table where the fluid pressure is equal to or greater than atmospheric pressure. This is This is essentially equivalent to the Saturated zone where all the pores are filled with water. sharp, 2023\nCapillary Fringe (or Zone) - the zone immediately above the water table where the medium is saturated or partially saturated by capillary rise from the phreatic zone. Water in the capillary fringe has a pressure less than atmospheric sharp, 2023",
+    "text": "Definitions\n\nInfiltration the downward movement of water into the soil surface\nPercolation the downward movement of infiltrate water through soil particles and porous materials.\n\n\ninfiltration vs. PercolationWater must infiltrate before it can percolate",
     "crumbs": [
       "Lectures",
       "Infiltration and ET"
@@ -170,7 +170,7 @@
     "href": "Lectures/Lecture-2.html#infiltration",
     "title": "Infiltration and ET",
     "section": "Infiltration",
-    "text": "Infiltration\n\nDownward movement is typically combination of gravitational and tension (suction, matric, capillary) forces.\nWhen rain hits a dry soil…Surface effects between soil particals and water exert a tension that draws water into soil, a process known as infiltration.\n\n\n\nSoil water tention: 1 inch of soil water head near saturation, 10 million inches of head for very dry soils",
+    "text": "Infiltration\n\nWater that infiltrates the soil surface can perolate down to the water table which is a conceptual surface existing everywhere at some depth below the land surface\nThe depth of the water table varies from location to location but its depth can be measured by drilling a well.\nThe water surface of a stream or lake becomes the water table where the land surface meets the edge of the water. the water surface along the shorline extends beneath the land surface.\nAlong the shorline, water is generally flowing (discharging) from the land into the laker or stream but, in some isntances, the direction of flow is from the water body into the earth.",
     "crumbs": [
       "Lectures",
       "Infiltration and ET"
@@ -288,5 +288,225 @@
     "title": "From RStudio",
     "section": "Troubleshooting",
     "text": "Troubleshooting\nIf you have trouble rendering your website after for example changing the extenstion of a file from .md to .qmd, refreshing your RStudio often helps. Do this by clicking the project name at the upper right of the RStudio window (in this case, quarto-website-tutorial), and underneath the “close project” section, click the same name of your project: quarto-website-tutorial. This will relaunch your whole project afresh."
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#other-resources",
+    "href": "Lectures/Lecture-2.html#other-resources",
+    "title": "Infiltration and ET",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nFree Online Course: Utah State University Rainfall Runoff Processes",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle",
+    "href": "Lectures/Lecture-2.html#the-water-cycle",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle",
+    "text": "The Water Cycle\nWhere does the water go after it rains?\n\nWater Cycle Processes. Source: USUPrecipitation weather rain or snow may be intercepted by vegetation. If precipitation penetrates the vegetation it is referred to as throughfall.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle-1",
+    "href": "Lectures/Lecture-2.html#the-water-cycle-1",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle 1",
+    "text": "The Water Cycle 1\nWhere does the water go after it rains?\n\nWater Cycle Processes. Source: USUPrecipitation weather rain or snow may be intercepted by vegetation. If precipitation penetrates the vegetation it is referred to as throughfall.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle-2",
+    "href": "Lectures/Lecture-2.html#the-water-cycle-2",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle 2",
+    "text": "The Water Cycle 2\n\nMuch of the water that is intercepted by vegetation is evaporated back into the atmosphere.\nWater is also lost to the atosphere through transpiration caused by plant water use, this water is generally sourced from the shallow soil in the root zone.\nThoughfall may also accumulate in shallow surface depressions called depressional storage where it may evaporate or infiltrate into the soil, where it may be evporated from the soil surface.\nSnow may accumulate on branches in the canopy or throughfall to the ground surface and may infiltrate the soil, but it may also sublimate or turn from solid to gas form and evaporate.\nIf the final desinitation of the water is evaporation or transpiration it is collectively known as Evapotransporation or ET.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle-3",
+    "href": "Lectures/Lecture-2.html#the-water-cycle-3",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle 3",
+    "text": "The Water Cycle 3\nWhat about water that doesn’t get lost to ET?\n\nWater Cycle Processes. Source: USUWater that reaches the surface collects in small depressions, if it does not evaporate it can begin to infiltrate into the soil, where it may flow latterally, down-gradient, towards streams controbuting to interflow. Infiltrated water may also percolate or move vertically down through deeper soil and rock layers into the groundwater. If the water collects in depressions faster than it can infiltrate and fills the depressional storage it may runoff, down gradient, towards streams as overland flow.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---1",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---1",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 1",
+    "text": "The Water Cycle - 1\nWhere does the water go after it rains?\n\nWater Cycle Processes. Source: USU\nPrecipitation weather rain or snow may be intercepted by vegetation. If precipitation penetrates the vegetation it is referred to as throughfall.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---2",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---2",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 2",
+    "text": "The Water Cycle - 2\n\nMuch of the water that is intercepted by vegetation is evaporated back into the atmosphere.\nWater is also lost to the atosphere through transpiration caused by plant water use, this water is generally sourced from the shallow soil in the root zone.\nThoughfall may also accumulate in shallow surface depressions called depressional storage where it may evaporate directly or infiltrate into the soil, where it may be evporated from the soil surface or transpired.\nSnow may accumulate on branches in the canopy or throughfall to the ground surface where. Snow can melt and infiltrate, or sublimate (turn from solid to gas form) and be lost to the atmosphere.\nIf the final desinitation of the water is evaporation or transpiration it is collectively known as Evapotransporation or ET.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---3",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---3",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 3",
+    "text": "The Water Cycle - 3\n\n\n\nInflows and Outflows in the Colorado River basin\n\n\n\n\nSource: Desert Research Institute",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---4",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---4",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 4",
+    "text": "The Water Cycle - 4\n\nET - source:Poeter et al., 2020",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---5",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---5",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 5",
+    "text": "The Water Cycle - 5\nWhat about water that doesn’t get lost to ET?\n\nWater Cycle Processes. Source: USU",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#section",
+    "href": "Lectures/Lecture-2.html#section",
+    "title": "Infiltration and ET",
+    "section": "",
+    "text": "Source: Desert Research Institute",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#the-water-cycle---6",
+    "href": "Lectures/Lecture-2.html#the-water-cycle---6",
+    "title": "Infiltration and ET",
+    "section": "The Water Cycle - 6",
+    "text": "The Water Cycle - 6\nWhat about water that doesn’t get lost to ET?\n\nWater that reaches the surface collects in small depressions, if it does not evaporate it can begin to infiltrate into the soil, where it may flow latterally, down-gradient, towards streams. This type of flow is called interflow.\nInfiltrated water may also percolate or move vertically down through deeper soil and rock layers into the groundwater.\nIf the water collects in depressions faster than it can infiltrate and overtops the depressions–it may runoff, down gradient, towards streams as overland flow.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#more-definitions",
+    "href": "Lectures/Lecture-2.html#more-definitions",
+    "title": "Infiltration and ET",
+    "section": "More Definitions",
+    "text": "More Definitions",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#infiltration-1",
+    "href": "Lectures/Lecture-2.html#infiltration-1",
+    "title": "Infiltration and ET",
+    "section": "Infiltration 1",
+    "text": "Infiltration 1\n\nWater that infiltrates the soil surface can perolate down to the water table which is a conceptual surface existing everywhere at some depth below the land surface\nThe depth of the water table varies from location to location but its depth can be measured by drilling a well.\nThe water surface of a stream or lake becomes the water table where the land surface meets the edge of the water. the water surface along the shorline extends beneath the land surface.\nAlong the shorline, water is generally flowing (discharging) from the land into the laker or stream but, in some isntances, the direction of flow is from the water body into the earth.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#infiltration-2",
+    "href": "Lectures/Lecture-2.html#infiltration-2",
+    "title": "Infiltration and ET",
+    "section": "Infiltration 2",
+    "text": "Infiltration 2",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#infiltration-3",
+    "href": "Lectures/Lecture-2.html#infiltration-3",
+    "title": "Infiltration and ET",
+    "section": "Infiltration 3",
+    "text": "Infiltration 3\n“In hydrology, Horton (1933) showed that rainfall, when it reaches the round surface, infiltrates the surface soils at a rate which decrases with time. He pointed out that for any given soil there is a limiting curve that defines the maximum possible rates of infiltration versus time. For heavy rains, the actual infiltration will follow this limiting curve, which he called the curve of infiltration capacity of the soil.”\n\ninfiltration rate decrease with time after the onset of rainfall and ultimately reaches an approximately constant rate. the decline is caused mainly by the filling of the soil pores by water.\ninfiltration rate is related to the soil texure with clays having a more rapid decline in infiltration capacity and a lower final constant rate than sandy soils, or soils with more pore space.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#section-2",
+    "href": "Lectures/Lecture-2.html#section-2",
+    "title": "Infiltration and ET",
+    "section": "",
+    "text": "-Water rises",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#section-3",
+    "href": "Lectures/Lecture-2.html#section-3",
+    "title": "Infiltration and ET",
+    "section": "",
+    "text": "“In hydrology, Horton (1933) showed that rainfall, when it reaches the round surface, infiltrates the surface soils at a rate which decrases with time. He pointed out that for any given soil there is a limiting curve that defines the maximum possible rates of infiltration versus time. For heavy rains, the actual infiltration will follow this limiting curve, which he called the curve of infiltration capacity of the soil.”\n\ninfiltration rate decrease with time after the onset of rainfall and ultimately reaches an approximately constant rate. the decline is caused mainly by the filling of the soil pores by water.\ninfiltration rate is related to the soil texure with clays having a more rapid decline in infiltration capacity and a lower final constant rate than sandy soils, or soils with more pore space.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#section-4",
+    "href": "Lectures/Lecture-2.html#section-4",
+    "title": "Infiltration and ET",
+    "section": "",
+    "text": "“In hydrology, Horton (1933) showed that rainfall, when it reaches the round surface, infiltrates the surface soils at a rate which decrases with time. He pointed out that for any given soil there is a limiting curve that defines the maximum possible rates of infiltration versus time. For heavy rains, the actual infiltration will follow this limiting curve, which he called the curve of infiltration capacity of the soil.”\n\ninfiltration rate decrease with time after the onset of rainfall and ultimately reaches an approximately constant rate. the decline is caused mainly by the filling of the soil pores by water.\ninfiltration rate is related to the soil texure with clays having a more rapid decline in infiltration capacity and a lower final constant rate than sandy soils, or soils with more pore space.",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
+  },
+  {
+    "objectID": "Lectures/Lecture-2.html#capillary-rise",
+    "href": "Lectures/Lecture-2.html#capillary-rise",
+    "title": "Infiltration and ET",
+    "section": "Capillary Rise",
+    "text": "Capillary Rise\n\nWater rises a small distance into soil pores above the water table due to capillary forces that result from the adhesion of water molecules to subsuface solids and the cohesion of water moelcules to one another.\nThese capillary forces pull soil upward, opposing the force of graity that pulls the water down.\nThis is similar to how a sponge placed on a wet counter-top pulls the water up into the pore spaces within the sponge.\n\n\nCapillary Rise",
+    "crumbs": [
+      "Lectures",
+      "Infiltration and ET"
+    ]
   }
 ]

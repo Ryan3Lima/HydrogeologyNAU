@@ -9,7 +9,7 @@ format:
 
 ## Textbooks
 
-- Schwartz and Zheng, Chapter 2
+- [Groundwater Freeze & Cherry 1979](https://fc79.gw-project.org/english/)^[Free Textbook from the Groundwater Project)
 
 - [Groundwater in our Water Cycle: Getting to Know Earth's Most Important Fresh Water Source](https://gw-project.org/books/groundwater-in-our-water-cycle/) ^[Free Textbook from the Groundwater Project]
 

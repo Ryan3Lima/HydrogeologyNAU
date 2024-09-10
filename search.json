@@ -84,46 +84,6 @@
     "text": "Limitations\nWhile awesome that we can edit using GitHub directly from the browser, there are obvious limitations. One is that to see your edits show up in your book, you have to publish using the GitHub Action. This is slow. Another limitation is that we can only work on one file at a time and commit them each separately, which also is slow. Using additional software can make things much better, as we explore in subsequent chapters."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Applied Remote Sensing",
-    "section": "",
-    "text": "Welcome this is a draft site for the classes INF/EES/ENV 529",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Applied Remote Sensing",
-    "section": "",
-    "text": "Welcome this is a draft site for the classes INF/EES/ENV 529",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#what-is-remote-sensing",
-    "href": "index.html#what-is-remote-sensing",
-    "title": "Applied Remote Sensing",
-    "section": "What is Remote sensing?",
-    "text": "What is Remote sensing?\nRemote sensing is the process of acquiring information about the Earth’s surface without direct physical contact, typically through the use of satellites, drones, or aircraft. It involves capturing data across various wavelengths of the electromagnetic spectrum, such as visible light, infrared, microwave, or ultraviolet, using sensors or cameras mounted on these platforms.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#applications-of-remote-sensing",
-    "href": "index.html#applications-of-remote-sensing",
-    "title": "Applied Remote Sensing",
-    "section": "Applications of Remote Sensing:",
-    "text": "Applications of Remote Sensing:\n\nEnvironmental Monitoring: Tracking changes in land use, deforestation, desertification, and urbanization.\nAgriculture: Monitoring crop health, soil moisture, and yield prediction.\nWater Resources: Measuring surface water levels, mapping wetlands, and tracking snow cover.\nDisaster Management: Assessing the impact of natural disasters like floods, hurricanes, and wildfires.\nClimate Studies: Monitoring glaciers, sea level rise, and temperature changes.\nGeology: Identifying mineral deposits, faults, and mapping landforms.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
     "objectID": "learning-more.html",
     "href": "learning-more.html",
     "title": "Learning more",
@@ -138,124 +98,69 @@
     "text": "An excellent overview: Reproducible authoring with Quarto - Mine Çetinkaya-Rundel, Feb 2022 - slides, youtube\nA Quarto tip a day in June 2022, from Mine Çetinkaya-Rundel.\n\n\n\nOpenscapes Champions Lessons Series\nOpenscapes Approach Guide\n\nNASA Earthdata Cloud Cookbook\n\nSee many more examples at the quarto gallery!\n\n\n\nAre you making onboarding documentation? Check out The Fay Lab Manual (now in Quarto!) for inspiration on structure - you could also start there and make it your own."
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html",
-    "href": "Lab-Exercises/Lab-2.html",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "",
-    "text": "With this tutorial, we will load bands 1-7 from a Landsat 8 Image\nRequirements:",
+    "objectID": "Lectures/Lecture-2.html#textbooks",
+    "href": "Lectures/Lecture-2.html#textbooks",
+    "title": "Infiltration and ET",
+    "section": "Textbooks",
+    "text": "Textbooks\n\nSchwartz and Zheng, Chapter 2\nGroundwater in our Water Cycle: Getting to Know Earth’s Most Important Fresh Water Source 1\nA Glossary of Hydrogeology 2\n\nFree Textbook from the Groundwater ProjectFree Textbook from the Groundwater Project",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html#about-landsat-8",
-    "href": "Lab-Exercises/Lab-2.html#about-landsat-8",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "About Landsat 8",
-    "text": "About Landsat 8\nFrom the NASA.gov Landsat 8 Information Page:\n\nLandsat 8 launched on February 11, 2013, from Vandenberg Air Force Base, California, on an Atlas-V 401 rocket, with the extended payload fairing  (EPF) from United Launch Alliance, LLC. (The Landsat 8 Launch in Quotes.) The Landsat 8 satellite payload consists of two science instruments—the Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS). These two sensors provide seasonal coverage of the global landmass at a spatial resolution of 30 meters (visible, NIR, SWIR); 100 meters (thermal); and 15 meters (panchromatic). Landsat 8 was developed as a collaboration between NASA and the U.S. Geological Survey (USGS). NASA led the design, construction, launch, and on-orbit calibration phases, during which time the satellite was called the Landsat Data Continuity Mission (LDCM). On May 30, 2013, USGS took over routine operations and the satellite became Landsat 8. USGS leads post-launch calibration activities, satellite operations, data product generation, and data archiving at the Earth Resources Observation and Science (EROS) center.\n\n\nQuick Facts\n\n\n\nLaunch Date: February 11, 2013\nSensors: OLI, TIRS\nAltitude: 705km\nInclination: \\(98\\textdegree\\)\nOrbit: Polar, sun-synchronous\nEquitorial Crossing Time: Nominally 10AM (+/- 15 minutes) local time (descending node)\nPeriod of Revolution: 99 minutes; ~14.5 orbits/day\nRepeat Coverage: 16 days\nData: 12-bit scaled to 16-bit intergers\n\n\n\n\n\nSource:https://landsat.gsfc.nasa.gov/satellites/landsat-8/: The OLI collects data for two new bands, a coastal/aerosol band (band 1) and a cirrus band (band 9), as well as the heritage Landsat multispectral bands. Additionally, the bandwidth has been refined for six of the heritage bands. The Thermal Instrument (TIRS) carries two additional thermal infrared bands. Note: atmospheric transmission values for this graphic were calculated using MODTRAN for a summertime mid-latitude hazy atmosphere (circa 5 km visibility).Graphic created by L.Rocchio & J.Barsi.",
+    "objectID": "Lectures/Lecture-2.html#definitions",
+    "href": "Lectures/Lecture-2.html#definitions",
+    "title": "Infiltration and ET",
+    "section": "Definitions",
+    "text": "Definitions\n\nUnsaturated Zone - generically, is roughly, but not precisely, equivelent to the vadose zone. THis is the zone above the saturated portion of the capillary fringe where the pores are generally filled with both air and water and the fluid pressure is less than atmospheric sharp, 2023\nPhreatic zone - Water in the zone beneath the water table where the fluid pressure is equal to or greater than atmospheric pressure. This is This is essentially equivalent to the Saturated zone where all the pores are filled with water. sharp, 2023\nCapillary Fringe (or Zone) - the zone immediately above the water table where the medium is saturated or partially saturated by capillary rise from the phreatic zone. Water in the capillary fringe has a pressure less than atmospheric sharp, 2023",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html#step-1.-start-envi-classic",
-    "href": "Lab-Exercises/Lab-2.html#step-1.-start-envi-classic",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 1. Start ENVI Classic",
-    "text": "Step 1. Start ENVI Classic\n\n1.1 In the search bar next to the windows icon type: “ENVI”\n\n * &gt; 1.2** Click on ENVI Classic 6.0\nENVI Classic will Start up and you will see a toolbar",
+    "objectID": "Lectures/Lecture-2.html#recharge",
+    "href": "Lectures/Lecture-2.html#recharge",
+    "title": "Infiltration and ET",
+    "section": "Recharge",
+    "text": "Recharge\n\nIn humid areas recharge rates are most likely to exceed 10% of the local total annual precipitation.\nIn dry areas annual recharge rates are unlikely to exceed 10% of the local total annual precipitation.\n\n\n\nRecharge is 2-4% of total precipitation in Flagstaff, primarily all winter precipitation.",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html#step-2.-load-landsat-8-bands",
-    "href": "Lab-Exercises/Lab-2.html#step-2.-load-landsat-8-bands",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 2. Load Landsat 8 Bands",
-    "text": "Step 2. Load Landsat 8 Bands\nNext we will load landsat 8 bands 1-7. NOTE that when you download a landsat tile you get a seperate file for each band and also a .txt file containing metadata about the Landsat Product you have downloaded.\nRecall that Landsat8 OLI/TIRS has 11 Bands, we will only be working with bands 1-7 in this exercise Ultra-Blue to SWIR 2:\n\n\n\nSource:https://landsat.gsfc.nasa.gov/satellites/landsat-8/\n\n\n\n2.1 From the ENVI classic Toolbar –select File // Open External File // Generic Formats //\n\n\n\n2.2 Navigate to the location of the Landsat 8 bands on your computer or on a local drive\n\n\n2.3 Hold Shift and Select all files, they should all look like this: LC08_L2SP_037035_20210608_20210615_02_T1_SR_BN.TIF Note: N = 1-7\n\n\nNext you should see a new window pop up containing the available bands, each loaded as a seperate image with 1-Band each, we will combine them into a single image containing 7 bands in step 4 below.",
+    "objectID": "Lectures/Lecture-2.html#infiltration",
+    "href": "Lectures/Lecture-2.html#infiltration",
+    "title": "Infiltration and ET",
+    "section": "Infiltration",
+    "text": "Infiltration\n\nDownward movement is typically combination of gravitational and tension (suction, matric, capillary) forces.\nWhen rain hits a dry soil…Surface effects between soil particals and water exert a tension that draws water into soil, a process known as infiltration.\n\n\n\nSoil water tention: 1 inch of soil water head near saturation, 10 million inches of head for very dry soils",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html#step-3.-calibrate-each-band",
-    "href": "Lab-Exercises/Lab-2.html#step-3.-calibrate-each-band",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 3. Calibrate each band",
-    "text": "Step 3. Calibrate each band\nWe need to calibrate each individual band using the metadata and convert the DN (Digital Number) values to Radiance values. But now is also a good time to look at the meta-data file associated with the bands.\nFrom USGS Landsat Calibration & Validation :\n\nWhile Landsat satellites are well-designed and calibrated prior to launch, continuous calibration is required to offset degradation that may be caused by mechanical or electrical effects, or exposure to UV radiation. Calibration requires a comparison between the measuring instrument and an absolute reference standard known for accuracy. Validation of Landsat data is an ongoing effort\n\nCheck the website above for more information.\n\n3.1 Navigate to the Directory containing your band images in Explorer\n\n\n3.2 Create a new folder/directory called Calibrated … where we will store the calibrated files.\n\n\n3.3 – Select the metadata file LC08_L2SP_037035_20210608_20210615_02_T1_MTL.txt right-click the file and Open with Notepad or some text editor\n\n *** \nNear the bottom of the Meta Data File you will should see the following:\n\nMAP_PROJECTION = ‘UTM’ - this is the Universal Tranverse Mercator projection which uses \\(meters\\)\nDATUM = ‘WGS84’\nUTM_ZONE = 12\nGRID_CELL_SIZE_REFLECTIVE = 30.00 - (\\(meters\\) because of UTMs)\n\nNow that we have checked the Metadata and everything looks as expected lets Calibrate the Images. We will calibrate each image One-at-a-time\n\n3.4 From the ENVI classic Toolbar – Select: Basic Tools // PreProcessing // Calibration utilities // Landsat calibration\n\n\n\n\nLandsat Calibration\n\n\n\n3.5 Click on the first file and check to make sure it ends in *_B1.TIF*\n\n\n\n\nSelect and Calibrate Band 1\n\n\n\n3.6 rename the file LC08_B1_cal and save it to the ~somepath/Calibrated directory\n\n\nClick OK\n\n\n\n\nSave Calibrated band 1\n\n\n\n3.7 Repeat with band 2, making sure to click on the the file ending in “_B2.TIF”, rename the file “LC08_B2_cal”\n\n\nRepeat with bands 3 through 7\n\nWhen you are finished you Calibrated Directory should contain 14 files:\nLC08_BNcal; N = 1 - 7 LC08_BNcal.hdr; N = 1 - 7\n\n\n\nCalibrated Directory",
+    "objectID": "Lectures/Lecture-2.html#infiltration-continued",
+    "href": "Lectures/Lecture-2.html#infiltration-continued",
+    "title": "Infiltration and ET",
+    "section": "Infiltration continued",
+    "text": "Infiltration continued\n\n\n\n\n\nequillibrium state\n\n\n\n - Where \\(\\rho_w\\) = density of water\n\n\\(g\\) = gravitation constant\n\\(\\alpha\\) = angle of contact (meniscus and soil)\n\\(\\tau\\) = surface tension force\n\nSurface tension forces are due to adhesion and cohesion",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {
-    "objectID": "Lab-Exercises/Lab-2.html#step-4.-create-a-layerband-stack",
-    "href": "Lab-Exercises/Lab-2.html#step-4.-create-a-layerband-stack",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 4. Create a layer/band stack",
-    "text": "Step 4. Create a layer/band stack\nNow we need to load the calibrated bands into ENVI as a layer stack, or a multi-band image\n\n4.1 From the ENVI classic Toolbar – Select Basic Tools // Layer Stacking\n\n\n\n\nSelect Layer Stacking\n\n\nThe Layer Stacking Paremeters window will now open\n\n4.2 Click Import File on the Layer Stacking Parameters window then Navigate to your Calibrated Directory and select the calibrated bands 1 - 7\n\n\n\n\nSelect calibrated files\n\n\n\n4.3 Next click Reorder files and move them around so they are 1-7 from top to bottom.\n\n\n\n\nReorder Files\n\n\n\n4.4 Name the stack **LC08_B1_B7_cal_stack, save it in the Calibrated directory\n\nNotice on the right side of the Layer Stacking Paramters window that it confirms that the stack is UTM Zone 12, WGS84, and the pixel size is 30 meters.\n\n\n\nSave and compile stack\n\n\n\nClick OK",
+    "objectID": "Lectures/Lecture-2.html#hysteresis",
+    "href": "Lectures/Lecture-2.html#hysteresis",
+    "title": "Infiltration and ET",
+    "section": "Hysteresis",
+    "text": "Hysteresis\n\nthe phenomena exhibited by a system in which the reaction of the system to change is dependent upon its past reaction to change\nthe condition that is caused during wetting when the small pores fill first, while during drainage and drying, the large pores empty first.",
     "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
-    ]
-  },
-  {
-    "objectID": "Lab-Exercises/Lab-2.html#step-5.-open-stacked-image",
-    "href": "Lab-Exercises/Lab-2.html#step-5.-open-stacked-image",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 5. Open Stacked Image",
-    "text": "Step 5. Open Stacked Image\n\n5.1 Now go to your Avialable Bands List Window and click Load Band\n\nA Greyscale image will appear with three windows showing Band 1 (though its really band seven) I know it is confusing which is why in the next step we will reorder and rename the bands in the bands list.\n\n\n\nLoad Greyscale",
-    "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
-    ]
-  },
-  {
-    "objectID": "Lab-Exercises/Lab-2.html#step-6.-edit-band-names-attributes",
-    "href": "Lab-Exercises/Lab-2.html#step-6.-edit-band-names-attributes",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 6. Edit Band Names Attributes",
-    "text": "Step 6. Edit Band Names Attributes\n\n6.1 From the ENVI classic Toolbar – Select: File // Edit ENVI header\n\n\n6.2 When the Edit Header Input File window pops up, – Select LC08_B1_B7_cal_stack click OK\n\n\n6.3 When the Header Info window pops up, – Select Edit Attributes // Band Names\n\n\n6.4 When the Edit Band Name values window opens – Select the first Layer. It should be something like: Layer (TM Cal (Band 1:LC08_L2SP_037035_20210608_20210615_02_T1_SR_B7.TIF):LC08_B7_cal) replace that with Band_B7 and hit Enter on your keyboard orclick OK\n\n\nRepeat with bands 1-6 ensuring you are correctly naming the bands.\n\n\nOnce completed the Avilable Bands List window should show the new names and they should be in order 1-7 from top to bottom\n\n\n\n\nNew band names",
-    "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
-    ]
-  },
-  {
-    "objectID": "Lab-Exercises/Lab-2.html#step-7.-edit-band-attributes",
-    "href": "Lab-Exercises/Lab-2.html#step-7.-edit-band-attributes",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 7. Edit Band Attributes",
-    "text": "Step 7. Edit Band Attributes\nNext we will edit the attributes and change the units to wavelength and select the mean wavelength for each landsat band.\n\nBand 1 = mean(c(0.43,0.45)) = \\(0.44\\mu m\\)\nBand 2 = mean(c(0.45,0.51)) = \\(0.48\\mu m\\)\nBand 3 = mean(c(0.53,0.59)) = \\(0.56\\mu m\\)\nBand 4 = mean(c(0.64,0.67)) = \\(0.655\\mu m\\)\nBand 5 = mean(c(0.85,0.88)) = \\(0.865\\mu m\\)\nBand 6 = mean(c(1.57,1.655)) = \\(1.6125\\mu m\\)\nBand 7 = mean(c(2.11,2.29)) = \\(2.2\\mu m\\)\n\n\n7.1 From the ENVI classic Toolbar – Select: File // Edit ENVI header\n\n\n7.2 When the Edit Header Input File window pops up, – Select LC08_B1_B7_cal_stack click OK\n\n\nWhen the Header Info window pops up, – Select Edit Attributes // Wavelengths\n\n\n7.3 In the Edit Wavelength Values window – Select Band:1 :0.0000 and input the number for Band 1 from above (0.44) which is the mean wavelength or midpoint in the range of values for that band\n\n\n7.4Make sure to select Micrometers from the Wavelength/FWHM Units dropdown\n\n\n\n\nEdit Wavelength Values\n\n\n\nRepeat with other 7 bands using values from above and click OK\n\n\nwhen you are finished it should look like this:\n\n\n\n\nFinsihed step 7",
-    "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
-    ]
-  },
-  {
-    "objectID": "Lab-Exercises/Lab-2.html#step-8.-explore-the-image",
-    "href": "Lab-Exercises/Lab-2.html#step-8.-explore-the-image",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 8. Explore the Image",
-    "text": "Step 8. Explore the Image\n\n8.1 In the Available Bands List window, toggle from Gray Scale to RGB Color and Click Load RGB selecting Band_4 for R or Red, Band_3 for G or Green and Band_2 for B or Blue\n\nThree display windows should now pop up and be displaying the image in True Color RGB\n\n8.2 Click on the largest window and scroll to some spot on the map with your cursor right-click and select Cursor Location/Value and watch as the Data values for RG & B change as our scroll across the map.\n\n\n\n\nCursor Location/Value",
-    "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
-    ]
-  },
-  {
-    "objectID": "Lab-Exercises/Lab-2.html#step-9.-display-different-band-combinations",
-    "href": "Lab-Exercises/Lab-2.html#step-9.-display-different-band-combinations",
-    "title": "Lab 2 - Getting your image ready for classification",
-    "section": "Step 9. Display different band combinations",
-    "text": "Step 9. Display different band combinations\n\n9.1 Have a look at some common band combinations used for RGB color display.\n\n\n\n\nPopular Band Combinations\n\n\nAt a minimum try:\n\nColor Infrared (CIR) using bands 5,4 & 3 for RG & B respectively\n\n\nFalse Color (Vegetation Analysis) using bands 6,5 & 4 for RG & B respectively",
-    "crumbs": [
-      "Lab Exercises",
-      "Lab 2 - Getting your image ready for classification"
+      "Lectures",
+      "Infiltration and ET"
     ]
   },
   {

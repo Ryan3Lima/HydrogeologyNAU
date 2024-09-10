@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/quarto-workflows/rstudio.html</loc>
-    <lastmod>2024-09-06T20:38:52.356Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/rstudio.html</loc>
+    <lastmod>2024-09-10T19:38:15.464Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/quarto-workflows/browser.html</loc>
-    <lastmod>2024-09-06T20:38:52.328Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/browser.html</loc>
+    <lastmod>2024-09-10T19:38:15.432Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/index.html</loc>
-    <lastmod>2024-09-06T20:38:52.328Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/index.html</loc>
+    <lastmod>2024-09-10T19:38:15.432Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/learning-more.html</loc>
-    <lastmod>2024-09-06T20:38:52.328Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/learning-more.html</loc>
+    <lastmod>2024-09-10T19:38:15.432Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/Lab-Exercises/Lab-2.html</loc>
-    <lastmod>2024-09-06T20:38:52.276Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lectures/Lecture-2.html</loc>
+    <lastmod>2024-09-10T19:38:15.380Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/transition-from-rmarkdown.html</loc>
-    <lastmod>2024-09-06T20:38:52.356Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lab-Exercises/Lab-1.html</loc>
+    <lastmod>2024-09-10T19:38:15.316Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/quarto-workflows/jupyter.html</loc>
-    <lastmod>2024-09-06T20:38:52.356Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/transition-from-rmarkdown.html</loc>
+    <lastmod>2024-09-10T19:38:15.464Z</lastmod>
   </url>
   <url>
-    <loc>https://ryan3lima.github.io/AppliedRemoteSensingNAU/quarto-workflows/index.html</loc>
-    <lastmod>2024-09-06T20:38:52.356Z</lastmod>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/jupyter.html</loc>
+    <lastmod>2024-09-10T19:38:15.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/index.html</loc>
+    <lastmod>2024-09-10T19:38:15.464Z</lastmod>
   </url>
 </urlset>

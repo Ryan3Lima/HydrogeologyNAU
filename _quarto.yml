@@ -3,9 +3,9 @@ project:
   
 website: 
   page-navigation: true
-  title: "Applied Remote Sensing" 
-  site-url: "https://ryan3lima.github.io/AppliedRemoteSensingNAU/" 
-  repo-url: https://github.com/Ryan3Lima/AppliedRemoteSensingNAU
+  title: "Hydrology" 
+  site-url: https://ryan3lima.github.io/HydrogeologyNAU/" 
+  repo-url: https://ryan3lima.github.io/HydrogeologyNAU
   repo-actions: [edit, issue]
   
   page-footer:
@@ -17,11 +17,8 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://sites.google.com/a/nau.edu/remote-sensing-lab/home
-        text: "Remote Sensing and Geoinformatics Lab at NAU"
       - icon: github
-        href: https://github.com/Ryan3Lima/AppliedRemoteSensingNAU
+        href: https://ryan3lima.github.io/HydrogeologyNAU/
         text: "Quarto website tutorial"
        
 
@@ -33,9 +30,9 @@ website:
         text: Welcome
       - section: Lectures/index.qmd
         contents: 
+          - Lectures/Lecture-2.qmd
       - section: Lab-Exercises/index.qmd
         contents: 
-          - Lab-Exercises/Lab-2.qmd
 
 
 

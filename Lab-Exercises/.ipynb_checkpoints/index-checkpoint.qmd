@@ -2,4 +2,4 @@
 title: Lab Exercises
 ---
 
-## Required Software/Licenses
+## Empty

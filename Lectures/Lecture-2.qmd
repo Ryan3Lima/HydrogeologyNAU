@@ -1,0 +1,121 @@
+---
+title: Infiltration and ET
+author: Abe Springer
+format: 
+    revealjs:
+        theme: sky
+---
+
+
+## Textbooks
+
+- Schwartz and Zheng, Chapter 2
+
+- [Groundwater in our Water Cycle: Getting to Know Earth's Most Important Fresh Water Source](https://gw-project.org/books/groundwater-in-our-water-cycle/) ^[Free Textbook from the Groundwater Project]
+
+- [A Glossary of Hydrogeology](https://gw-project.org/books/a-glossary-of-hydrogeology) ^[Free Textbook from the Groundwater Project]
+---
+
+![Hydrologic Cycle Diagram](Images/FigSlide1.png)
+
+---
+
+![Figure 1.9 Key Components of the basin hydrologic cycle modified from Theis, 1940. The Source of water derived from wells--essential factors controlling the response of an aquifer to development Copyright 1940 by ASCE and reproduced with permission of the publisher, ASCE](Images/Fig1_9.png)
+
+---
+
+![Figure 1.1 Water infiltrating the subsurface flows through the gound-water system and eventually discharges in streams, lakes, or oceans. The residence time in the subsurface can vary from days to thousands of years. Source: Winter et al., 1998](Images/Fig1_1.png)
+
+---
+
+**Ages of Groundwater in Southwest**
+
+*Mountain Front Recharge*
+
+- Western Alluvial aquifers 700 - 25,500 yr b.p.
+- AZ basin and Range: 6000 - 13,000 yr b.p
+
+*Monsoon Recharge (direct recharge)*
+
+- ~ 4 inches of precipitation to have well response
+- Water levels 100 - 200 ft below surface
+
+*Kaibab Plateau*
+
+- days in sinkhole
+
+
+## Definitions {.smaller}
+
+- **Unsaturated Zone** - generically, is roughly, but not precisely, equivelent to the vadose zone. THis is the zone above the saturated portion of the capillary fringe where the pores are generally filled with both air and water and the fluid pressure is less than atmospheric [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+
+- **Phreatic zone** - Water in the zone beneath the water table where the fluid pressure is equal to or greater than atmospheric pressure. This is This is essentially equivalent to the *Saturated zone* where all the pores are filled with water. [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+
+- **Capillary Fringe (or Zone)** - the zone immediately above the water table where the medium is saturated or partially saturated by capillary rise from the phreatic zone. Water in the capillary fringe has a pressure less than atmospheric [sharp, 2023](https://gw-project.org/books/a-glossary-of-hydrogeology)
+
+---
+
+![Some authors consider the capillary fringe to be in the saturated zone -- the pore spaces are saturated BUT the hydraulic behavior really puts it in the unsaturated zone](Images/Capilary_fringe.png)
+
+## Recharge
+
+- In humid areas recharge rates are most likely to exceed 10% of the local total annual precipitation.
+- In dry areas annual recharge rates are unlikely to exceed 10% of the local total annual precipitation. 
+
+::: aside
+Recharge is 2-4% of total precipitation in Flagstaff, primarily all winter precipitation.
+:::
+ 
+ ---
+ 
+ **Infiltration**
+ 
+ What processes occur to precipitation?
+ 
+ - interception
+ 
+ - evaporation/sublimation
+ 
+ - transpiration
+ 
+ - runoff
+ 
+ Whats left can **INFILTRATE**
+
+## Infiltration
+
+- Downward movement is typically combination of gravitational and tension (suction, matric, capillary) forces.
+ 
+- When rain hits a dry soil...Surface effects between soil particals and water exert a tension that draws water into soil, a process known as infiltration.
+
+::: aside
+Soil water tention: 1 inch of soil water head near saturation, 10 million inches of head for very dry soils
+:::
+ 
+## Infiltration continued {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![equillibrium state](Images/Infiltration.png)
+:::
+
+::: {.column width="50%"}
+![](Images/equation.png)
+- Where $\rho_w$ = density of water
+
+- $g$ = gravitation constant
+
+- $\alpha$ = angle of contact (meniscus and soil)
+
+- $\tau$ = surface tension force
+:::
+Surface tension forces are due to adhesion and cohesion
+::::
+
+## Hysteresis
+
+- the phenomena exhibited by a system in which the reaction of the system to change is dependent upon its past reaction to change
+
+
+- the condition that is caused during wetting when **the small pores fill first**, while during drainage and drying, the **large pores empty first**. 
